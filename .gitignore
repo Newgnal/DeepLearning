@@ -1,0 +1,7 @@
+# ─── theme 모델 가중치 무시 ───
+/theme/**/*.bin
+/theme/**/*.pt
+/theme/**/*.pth
+/theme/**/*.h5
+/theme/**/*pytorch_model*
+/theme/**/saved_model_*
