@@ -69,3 +69,9 @@ FastAPI 추론 서버는 Docker 이미지로 패키징하여 AWS EC2에 배포�
 - Frontend: React Native + Expo
 - Backend: Spring Boot
 - AI Serving: FastAPI (본 저장소)
+
+## 프로젝트 산출물
+
+프로젝트 발표자료와 실제 서비스 동작 영상은 아래 링크에서 확인할 수 있습니다.
+
+- [발표자료 및 서비스 데모 영상](https://drive.google.com/drive/folders/1ieFjug-ojd5iCCs4pdpQmoOg6BVRg70W?usp=sharing)
